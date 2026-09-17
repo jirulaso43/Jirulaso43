@@ -17,15 +17,25 @@
 <div align="center">
 
 ```text
-              .-.
-             /   \          jirulaso43@thinkpad
-            |  .  |         ────────────────────
-             \   /          OS        CachyOS
-              `-'           WM        Hyprland
-                            Shell     fish
-                            Machine   Old ThinkPad
-                            Coding    Vibe Coding
-                            Goal      Cybersecurity
+        ███████████████
+      ██░░░░░░░░░░░░░██
+     ██░  ▄▄▄▄▄▄▄▄▄  ░██
+     ██░ █ 0     0 █ ░██
+     ██░ █    ▄    █ ░██
+     ██░ █  ▀███▀  █ ░██
+      ██░░░░░░░░░░░░░██
+        ███████████████
+            ║   ║
+         ═══╩═══╩═══
+
+ jirulaso43@thinkpad
+ ───────────────────
+ OS       → CachyOS
+ WM       → Hyprland
+ Shell    → fish
+ Machine  → Old ThinkPad
+ Coding   → Vibe Coding
+ Goal     → Cybersecurity
 ```
 
 </div>
