@@ -179,15 +179,17 @@ DOWNLOAD STATUS: 15%
 
 # `> github_stats`
 
+# `> github_stats`
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jirulaso43&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&rank_icon=github" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jirulaso43&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="49%" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jirulaso43&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jirulaso43&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa" width="49%" alt="Top Languages"/>
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=Jirulaso43&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Jirulaso43&theme=dark&hide_border=true&background=0d1117" width="70%" alt="GitHub Streak"/>
 
 </div>
 
@@ -197,7 +199,7 @@ DOWNLOAD STATUS: 15%
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jirulaso43&theme=github-compact&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff" width="95%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jirulaso43&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 
