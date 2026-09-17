@@ -1,19 +1,6 @@
-<div align="center">
-
 # `Jirulaso43`
 
 ### `root@thinkpad:~$ whoami`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Jirulaso43;CachyOS+%2B+Hyprland+%F0%9F%90%A7;Vibe+Coder+%F0%9F%A4%96;Future+Cybersecurity+Learner+%F0%9F%94%90;Running+Linux+on+an+old+ThinkPad+%F0%9F%97%BF" alt="Typing SVG" />
-
-<br>
-
-<img src="https://img.shields.io/badge/CachyOS-111111?style=for-the-badge&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/Hyprland-111111?style=for-the-badge&logo=wayland&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/Vibe%20Coding-111111?style=for-the-badge&logo=github&logoColor=white">
-
-</div>
 
 ---
 
@@ -27,7 +14,7 @@
                `+oooooo:                 Shell     fish
               -+oooooo+:                 Machine   Old ThinkPad
              `/:-:++oooo+:               Coding    Vibe Coding
-            `/++++/+++++++:              Goal      Cybersecurity
+            `/++++/+++++++:               Goal      Cybersecurity
            `/++++++++++++++:`
           `/+++ooooooooooooo/`
          ./ooosssso++osssssso+`
@@ -35,7 +22,7 @@
        -osssssso.      :ssssssso.
       :osssssss/        osssso+++.
      /ossssssss/        +ssssooo/-
-   `/ossssso+/:-        -:/+ossssss
+   `/ossssso+/:-        -:/+osssss
   `+sso+:-`                 `.-/+oso:
  `++:.                           `-/+/
  .`                                 `/.`
@@ -45,7 +32,31 @@ RAM       → probably enough
 GPU       → don't ask
 ThinkPad  → 🗿
 System    → ONLINE
+Network   → CONNECTED
+Threat    → probably me
+
 `````
+
+---
+
+## `> boot_sequence`
+
+```text
+[ OK ] Initializing ThinkPad...
+[ OK ] Loading CachyOS...
+[ OK ] Starting Hyprland...
+[ OK ] Starting fish...
+[ OK ] Checking caffeine levels...
+[ OK ] Loading questionable code...
+[ OK ] Connecting to GitHub...
+[ OK ] Cybersecurity module: NOT INSTALLED
+
+████████████████████████████████ 100%
+
+SYSTEM READY.
+
+jirulaso43@thinkpad:~$ _
+```
 
 ---
 
@@ -63,22 +74,42 @@ I mostly do **vibe coding**. 🤖
 
 ```text
 Idea
-  ↓
-AI
-  ↓
+  │
+  ▼
+ AI
+  │
+  ▼
 Code
-  ↓
+  │
+  ▼
 Run
-  ↓
+  │
+  ▼
 💥 ERROR
-  ↓
+  │
+  ▼
 Google / AI
-  ↓
+  │
+  ▼
 Fix
-  ↓
+  │
+  ▼
 "It works"
-  ↓
+  │
+  ▼
 DON'T TOUCH IT
+```
+
+### `> coding.exe`
+
+```text
+[■■□□□□□□□□] 20%  thinking...
+[■■■■□□□□□□] 40%  asking AI...
+[■■■■■■□□□□] 60%  copying code...
+[■■■■■■■■□□] 80%  fixing errors...
+[■■■■■■■■■■] 100% IT WORKS
+
+STATUS: questionable
 ```
 
 ---
@@ -115,12 +146,14 @@ $ git status
 
 On branch main
 
+[████████████████████] SYSTEM READY
+
 Everything looks normal.
 
 Probably.
 ```
 
-I'm working on **MůjFlix** together with my brother **[jablkooo](https://github.com/jablkooo)**.
+I'm working on **MůjFlix** together with my brother [**jablkooo**](https://github.com/jablkooo).
 
 **My role:** `co-worker`
 
@@ -129,16 +162,22 @@ MůjFlix is a cinematic movie & TV discovery project focused on desktop and lapt
 ### `> features`
 
 ```text
-🎬 Movies
-📺 TV Shows
-🔎 Search
-⭐ Ratings
-🎭 Actors & Genres
-📺 Streaming Providers
-🌑 Dark UI
-🧊 Glassmorphism
-🎞️ Cinematic Design
-☁️ Cloudflare
+┌─────────────────────────────────────┐
+│           MŮJFLIX MODULES           │
+├─────────────────────────────────────┤
+│                                     │
+│  🎬 Movies             [ ONLINE ]   │
+│  📺 TV Shows           [ ONLINE ]   │
+│  🔎 Search             [ ONLINE ]   │
+│  ⭐ Ratings             [ ONLINE ]   │
+│  🎭 Actors & Genres    [ ONLINE ]   │
+│  📺 Streaming          [ ONLINE ]   │
+│  🌑 Dark UI            [ ONLINE ]   │
+│  🧊 Glassmorphism      [ ONLINE ]   │
+│  🎞️ Cinematic Design   [ ONLINE ]   │
+│  ☁️ Cloudflare         [ ONLINE ]   │
+│                                     │
+└─────────────────────────────────────┘
 ```
 
 ### `> architecture`
@@ -160,6 +199,30 @@ MůjFlix is a cinematic movie & TV discovery project focused on desktop and lapt
                     ┌───────▼───────┐
                     │   Cloudflare  │
                     └───────────────┘
+```
+
+### `> deployment`
+
+```text
+$ ./deploy.sh
+
+Connecting...
+████░░░░░░░░░░░░░░░░ 20%
+
+Uploading...
+████████░░░░░░░░░░░░ 40%
+
+Building...
+████████████░░░░░░░░ 60%
+
+Optimizing...
+████████████████░░░░ 80%
+
+Deploying...
+████████████████████ 100%
+
+✓ Deployment complete
+✓ MůjFlix online
 ```
 
 ---
@@ -184,11 +247,25 @@ Linux
   └── Security
         │
         ▼
-   🔐 CYBERSECURITY
+   ┌───────────────┐
+   │ CYBERSECURITY │
+   └───────────────┘
 ```
 
+### `> security_training`
+
 ```text
-[████████████████████░░░░░░░░░░] LEARNING
+[████████████████████████░░░░░░] 80%
+          SYSTEMS
+
+[██████████████████░░░░░░░░░░░░] 60%
+          NETWORKING
+
+[██████████████░░░░░░░░░░░░░░░░] 45%
+          PYTHON
+
+[████████░░░░░░░░░░░░░░░░░░░░░░] 25%
+          CYBERSECURITY
 ```
 
 > The goal isn't to know everything.
@@ -199,12 +276,12 @@ Linux
 # `> skills`
 
 ```text
-Linux / CachyOS       ████████████████░░░░
-Hyprland              ███████████████░░░░░
-Git / GitHub           ███████████░░░░░░░░
-Vibe Coding            ████████████████████
-Web Development        ██████████░░░░░░░░░░
-Cybersecurity          ██░░░░░░░░░░░░░░░░░░
+Linux / CachyOS        ████████████████░░░░
+Hyprland               ███████████████░░░░░
+Git / GitHub            ███████████░░░░░░░░
+Vibe Coding             ████████████████████
+Web Development         ██████████░░░░░░░░░░
+Cybersecurity           ██░░░░░░░░░░░░░░░░░░
 ```
 
 **Skill bars are not scientifically accurate.**
@@ -219,21 +296,63 @@ They were made with the highly advanced technology known as:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jirulaso43&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&rank_icon=github" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=Jirulaso43&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&rank_icon=github" alt="Jirulaso43 GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jirulaso43&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jirulaso43&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa" alt="Jirulaso43 Top Languages">
 
 </div>
+
+```text
+github@api:~$ fetch Jirulaso43
+
+Connecting...
+[■■■■■■■■■■■■■■■■■■■■] 100%
+
+Repositories    → LOADING
+Commits         → LOADING
+Languages       → LOADING
+Contributions   → LOADING
+
+STATUS: CONNECTED
+```
 
 ---
 
 # `> activity`
 
-<div align="center">
+```text
+╔══════════════════════════════════════════════════╗
+║              GITHUB ACTIVITY                     ║
+╠══════════════════════════════════════════════════╣
+║                                                  ║
+║  Mon   Tue   Wed   Thu   Fri   Sat   Sun         ║
+║                                                  ║
+║  ░░░   ░░░   ▒▒░   ░░░   ▓▓░   ░░░   ▒▒░         ║
+║  ░░░   ▒▒░   ▓▓░   ▒▒░   ▓▓▓   ░░░   ░░░         ║
+║  ▒▒░   ▓▓░   ▓▓▓   ▒▒░   ░░░   ▒▒░   ▓▓░         ║
+║                                                  ║
+║  ░ Less activity                                ║
+║  ▒ Some activity                                ║
+║  ▓ Coding mode                                  ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jirulaso43&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak">
+```text
+$ git log --oneline
 
-</div>
+████████████████████████████████
+
+commit: probably-fixed-it
+commit: why-does-this-work
+commit: ai-help-me
+commit: dont-touch-this
+commit: final-final-real-final
+commit: test
+commit: test2
+commit: okay-now-it-works
+
+```
 
 ---
 
@@ -257,6 +376,22 @@ When I'm not fighting Linux configuration files, I'm probably playing:
 CS2          ████████████████░░░░
 Minecraft    ████████████░░░░░░░░
 Roblox       ██████████░░░░░░░░░░
+```
+
+### `> game_mode.exe`
+
+```text
+Launching Counter-Strike 2...
+
+[■■■░░░░░░░] Loading...
+[■■■■■■░░░░] Connecting...
+[■■■■■■■■░░] Searching...
+[■■■■■■■■■■] MATCH FOUND
+
+WARNING:
+
+Homework.exe is still running in background.
+
 ```
 
 ---
@@ -285,6 +420,46 @@ $ git pull
 Already up to date.
 
 $ nice
+
+nice: command completed successfully
+
+$ _
+```
+
+---
+
+# `> daily_loop`
+
+```text
+          ┌──────────────┐
+          │    WAKE UP   │
+          └──────┬───────┘
+                 ▼
+          ┌──────────────┐
+          │    LINUX     │
+          └──────┬───────┘
+                 ▼
+          ┌──────────────┐
+          │    CODE      │
+          └──────┬───────┘
+                 ▼
+          ┌──────────────┐
+          │    ERROR     │
+          └──────┬───────┘
+                 ▼
+          ┌──────────────┐
+          │      AI      │
+          └──────┬───────┘
+                 ▼
+          ┌──────────────┐
+          │     FIX      │
+          └──────┬───────┘
+                 ▼
+          ┌──────────────┐
+          │   REPEAT     │
+          └──────┬───────┘
+                 │
+                 └───────────────► ∞
 ```
 
 ---
@@ -306,6 +481,18 @@ $ nice
 └─────────────────────────────────────┘
 ```
 
+### `> environment`
+
+```text
+CachyOS       ████████████████████ ONLINE
+Hyprland      ████████████████████ ONLINE
+fish          ████████████████████ ONLINE
+ThinkPad      ████████████████████ ONLINE
+WiFi          █████████████████░░░ CONNECTED
+Battery       ███████████░░░░░░░░ UNKNOWN
+Motivation    ███████████████░░░░░ LOADING
+```
+
 ---
 
 # `> team`
@@ -316,33 +503,58 @@ My brother and project partner.
 
 We're working together on **MůjFlix**.
 
-→ **[github.com/jablkooo](https://github.com/jablkooo)**
+→ [**github.com/jablkooo**](https://github.com/jablkooo)
 
 ```text
 Jirulaso43 ─────────────── jablkooo
      │                         │
      └──────── MůjFlix ───────┘
+
+TEAM STATUS: ONLINE
 ```
 
 ---
 
 # `> contact`
 
-<div align="center">
+```text
+┌────────────────────────────────────────┐
+│             CONTACT                     │
+├────────────────────────────────────────┤
+│                                        │
+│  GitHub   → Jirulaso43                 │
+│  Discord  → 1185259056563228814        │
+│  Steam    → jirulaso43                 │
+│                                        │
+└────────────────────────────────────────┘
+```
 
-<a href="https://github.com/Jirulaso43">
-<img src="https://img.shields.io/badge/GitHub-Jirulaso43-111111?style=for-the-badge&logo=github">
-</a>
+* Discord: https://discord.com/users/1185259056563228814
+* Steam: https://steamcommunity.com/profiles/76561199834679493
 
-<a href="https://discord.com/users/1185259056563228814">
-<img src="https://img.shields.io/badge/Discord-Contact-111111?style=for-the-badge&logo=discord">
-</a>
+---
 
-<a href="https://steamcommunity.com/profiles/76561199834679493">
-<img src="https://img.shields.io/badge/Steam-Profile-111111?style=for-the-badge&logo=steam">
-</a>
+# `> system_status`
 
-</div>
+```text
+Initializing final diagnostics...
+
+OS             [████████████████████] ONLINE
+Hyprland       [████████████████████] ONLINE
+fish           [████████████████████] ONLINE
+ThinkPad       [████████████████████] ALIVE
+GitHub         [████████████████████] CONNECTED
+MůjFlix        [████████████████████] ACTIVE
+Cybersecurity  [██████░░░░░░░░░░░░░░] LEARNING
+
+────────────────────────────────────────────
+
+SYSTEM STATUS: OPERATIONAL
+USER STATUS  : ONLINE
+BRAIN STATUS : 404
+
+────────────────────────────────────────────
+```
 
 ---
 
@@ -356,23 +568,35 @@ jirulaso43@thinkpad:~$ sudo shutdown now
 Stopping services...
 Saving session...
 Closing Hyprland...
+Stopping fish...
+Disconnecting GitHub...
 Turning off ThinkPad...
 
-████████████████████████████████ 100%
+[■■■■░░░░░░░░░░░░░░░░] 20%
+[■■■■■■■■░░░░░░░░░░░░] 40%
+[■■■■■■■■■■■■░░░░░░░░] 60%
+[■■■■■■■■■■■■■■■■░░░░] 80%
+[■■■■■■■■■■■■■■■■■■■■] 100%
 
 System halted.
 
 Thanks for visiting. 👋
 ```
 
-<div align="center">
-
 ```text
-01001100 01001001 01001110 01010101 01011000
+01001010 01001001 01010010 01010101 01001100 01000001 01010011 01001111
 ```
 
 ### 🐧 CachyOS • 🖥️ ThinkPad • 🤖 Vibe Coding • 🔐 Cybersecurity
 
-**`Connection closed.`**
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│    "BREAK IT. LEARN IT. BUILD IT BETTER."   │
+│                                              │
+│             user@thinkpad:~$ _               │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
-</div>
+**`Connection closed.`**
