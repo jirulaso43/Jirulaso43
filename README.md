@@ -179,8 +179,6 @@ DOWNLOAD STATUS: 15%
 
 # `> github_stats`
 
-# `> github_stats`
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jirulaso43&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="49%" alt="GitHub Stats"/>
