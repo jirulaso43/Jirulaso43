@@ -100,7 +100,7 @@ DON'T TOUCH IT
 
 # `> projects`
 
-## 🎬 MůjFlix
+## 🎬 MůjFlix → https://github.com/jablkooo/mujflix 
 
 <div align="center">
 
